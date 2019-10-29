@@ -1,0 +1,2 @@
+# arabic--CV-NLP
+Project as a part of our udacity nanodegree where we will try to apply our nanodegree concepts for Arabic language OCR, translation, transliteration, etc
