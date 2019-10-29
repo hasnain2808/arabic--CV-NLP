@@ -8,7 +8,7 @@ Project as a part of our udacity nanodegree where we will try to apply our nanod
 | ------------------------- | ------------------------- |
 | []() | Shahana | 
 | []() | Hasnain |
-| []() | Akash |
+| [Akash Antony](https://github.com/kshntn) | Akash |
 | [Halwai Aftab Hasan](https://github.com/ahkhalwai) | Halwai Aftab Hasan |
 | []() | Nirupama |
 | []() | Shanmugapriya |
