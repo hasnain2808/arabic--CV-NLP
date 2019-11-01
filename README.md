@@ -1,6 +1,10 @@
 # arabic--CV-NLP
 Project as a part of our udacity nanodegree where we will try to apply our nanodegree concepts for Arabic language OCR, translation, transliteration, etc
 
+## Materials   
+------------------------------------------------------------------------------
+[Optical Character Recognition for Quranic Image Similarity Matching](https://www.researchgate.net/publication/320954948_Optical_Character_Recognition_for_Quranic_Image_Similarity_Matching)
+
 ## Contributors   
 ------------------------------------------------------------------------------
 
